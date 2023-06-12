@@ -1,3 +1,8 @@
+https://github.com/zyddnys/manga-image-translator
+
+
+
+
 # 工作原理
 复用微信的图片翻译功能
 
