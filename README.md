@@ -1,6 +1,7 @@
 https://github.com/zyddnys/manga-image-translator
 
 
+https://github.com/kanadeblisst00/wechat_ocr
 
 
 # 工作原理
